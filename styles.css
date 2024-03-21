@@ -1,0 +1,64 @@
+
+#head {
+    font-size: 30px;
+    margin: auto;
+    color: bisque;
+  }
+  main{
+    text-align: center;
+  }
+  .details {
+    font-size: large;
+    margin-bottom: auto;
+    color: darkorange;
+  }
+  body {
+    background: url("C:\Users\chapa\OneDrive\Desktop\week 10\KITCHEN (1).jpg");
+  
+    background-size: cover;
+    background-position: center;
+  }
+  p {
+    color: rgb(3, 3, 34);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px; /* Adjust height as needed */
+  }
+
+  nav {
+    position:fixed;
+    top:0;
+    width:100%;
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+  ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  li {
+    display: inline;
+    font-size: 20px;
+    margin-right: 40px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  footer {
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0; /* Add bottom positioning */
+  }
